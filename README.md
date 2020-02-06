@@ -1,2 +1,3 @@
-# hello-ionic
-Hello, Ionic
+# Hello, Ionic
+
+https://ionicframework.com/docs/
