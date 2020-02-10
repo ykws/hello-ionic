@@ -4,6 +4,6 @@
 
 ## Requirements
 * [Node](https://github.com/ykws/hello-node)
-* [Ionic CLI](https://ionicframework.com/docs/cli)
+* [Ionic CLI](https://github.com/ionic-team/ionic-cli)
 
 https://ionicframework.com/docs/
